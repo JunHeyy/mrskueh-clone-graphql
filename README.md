@@ -9,7 +9,7 @@ A modern web application clone of MrsKueh.com built with React, Vite, and GraphQ
 - React
 - Vite
 - GraphQL
-- [List any other major technologies/libraries]
+- Apollo
 
 ## 📦 Installation
 
